@@ -207,16 +207,16 @@
     "B":  [
               {
                   "name":  "Group1 吳安柔",
-                  "url":  "https://example.com/",
-                  "sdg":  "SDG3 + SDG12",
-                  "theme":  "Theme description: Student ID: 110403028",
+                  "url":  "https://josephineyyz.github.io/les.animeux.demo/story.html",
+                  "sdg":  "SDG4 + SDG14 + SDG15 ++ SDG17",
+                  "theme":  "Theme description: \"Mes amis, les animeux\" (My Friends, the Animals) is a community platform celebrating the bond between humans and the animal world. The site offers two complementary sections: Animal World — in-depth articles on species biology, habitats, and conservation; and Animals Through Our Eyes — personal stories of everyday wildlife encounters. Visitors can register, publish articles with photos and nature sounds, like and bookmark posts, leave comments, and explore stories pinned on an interactive 3D globe. The platform aims to spark curiosity about biodiversity and inspire a gentler coexistence between people and nature.",
                   "photo":  "assets/b-class/group01.webp"
               },
               {
                   "name":  "Group2 蘇郁茜",
-                  "url":  "https://example.com/",
-                  "sdg":  "SDG4 + SDG10",
-                  "theme":  "Theme description: Student ID: 114423017",
+                  "url":  " https://francissu09.github.io/",
+                  "sdg":  "SDG3",
+                  "theme":  "Theme description: This website focuses on the core concept that \"employee health is a sustainable asset for enterprises,\" integrating annual health check-up data, health benefits, anonymous corporate statistics, and AI health recommendations into an interactive ESG health management platform.",
                   "photo":  "assets/b-class/group02.webp"
               },
               {
@@ -340,16 +340,16 @@
               },
               {
                   "name":  "Group20 黃妍瑄、松怡琳、薛閔云",
-                  "url":  "https://example.com/",
-                  "sdg":  "SDG7 + SDG11",
-                  "theme":  "Theme description: Student IDs: 113403038, 113403535, 113403528",
+                  "url":  " https://520-final-project.github.io/final-project/index.html",
+                  "sdg":  "SDG12 + SDG14",
+                  "theme":  "Theme description:\"OceanProtection\" is a website about saving our oceans and changing our habits. Through these fun and interactive features, we want to teach people about plastic pollution and inspire everyone to reduce waste.",
                   "photo":  "assets/b-class/group20.webp"
               },
               {
                   "name":  "Group21 陳政煒、施駿朋",
-                  "url":  "https://example.com/",
-                  "sdg":  "SDG3 + SDG15",
-                  "theme":  "Theme description: Student IDs: 113403545, 113403064",
+                  "url":  "https://vue-project-group21.vercel.app/",
+                  "sdg":  "SDG7",
+                  "theme":  "Theme description:Our website focuses on introducing various types of renewable energy and nuclear power. Through an animated interactive map, users can explore different energy sources in a more visual and engaging way. We also turn complex scientific principles into clear animations and present large amounts of energy data through easy-to-read charts. In addition, our website includes interactive quizzes that allow users to test their knowledge and learn interesting energy facts. We also provide relevant news articles to help users stay updated on the latest developments in renewable energy.",
                   "photo":  "assets/b-class/group21.webp"
               },
               {
