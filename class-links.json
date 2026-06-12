@@ -4,21 +4,21 @@
                   "name":  "Group1 李盈萱",
                   "url":  "https://shiuan129.github.io/final/",
                   "sdg":  "SDG13",
-                  "theme":  "Theme description: Eco-Eat:Low-Carbon Plant Based Recipes for Students",
+                  "theme":  "Theme description: A single-page website that showcases 15 quick plant-based recipes (each within 15 minutes) designed for students. The site promotes low-carbon, sustainable eating by encouraging reduced meat consumption and lower environmental impact, helping users make climate-friendly food choices in everyday life.",
                   "photo":  "assets/a-class/group01.jpg"
               },
               {
                   "name":  "Group2 葉柔辰、陳宇緹、卓少筠",
                   "url":  "https://yellow93227.github.io/web-hw-01/0524.html",
                   "sdg":  "SDG13",
-                  "theme":  "Theme description: Introduce Global Warming & Rising Aviation Impact and let users know how they can do with carbon reduction ",
+                  "theme":  "AeroGreen: A Platform for Sustainable Aviation and Eco-Friendly Travel AeroGreen is a comprehensive web platform dedicated to promoting sustainable practices within the aviation industry. Our website features an interactive Personal Carbon Footprint Calculator that allows travelers to estimate their flight emissions and rewards them with Eco-Miles for making greener choices, such as selecting vegetarian in-flight meals. Additionally, AeroGreen provides a B2B enterprise portal with a backend dashboard, enabling airlines and corporate partners to efficiently monitor sustainability metrics and track their carbon offset progress. By combining gamification for individual users with practical tools for enterprises, AeroGreen aims to drive real climate action and encourage eco-conscious travel decisions.",
                   "photo":  "assets/a-class/group02.jpg"
               },
               {
                   "name":  "Group3 蘇晏婷、陳思宇、梁瑋文",
                   "url":  "https://ssuyuchen.github.io/IM3029A-1142-113403501/FinalProject.html",
                   "sdg":  "All SDGs",
-                  "theme":  "Theme description: Enhance understanding of SDGs, Boost learning interactivity, Connect with real-life contexts",
+                  "theme":  "Theme description: This website is an educational platform dedicated to promoting awareness and understanding of the United Nations Sustainable Development Goals (SDGs). It provides comprehensive information on all 17 SDGs, including their background, objectives, key challenges, and practical actions that individuals can take to contribute to sustainable development. To enhance user engagement and learning effectiveness, the website integrates visual design, bilingual support, and interactive scenario-based activities. Users can explore each SDG in detail, analyze real-world sustainability issues, and participate in decision-making exercises that encourage critical thinking and problem-solving skills. Through these interactive experiences, the platform helps users understand the social, economic, and environmental dimensions of sustainable development and their interconnections. The primary goal of this website is to serve as an accessible learning resource for students and the general public, fostering sustainability literacy and encouraging users to transform sustainable concepts into meaningful actions in their daily lives. By promoting knowledge sharing and public participation, the platform aims to contribute to the achievement of a more sustainable and inclusive future.",
                   "photo":  "assets/a-class/group03.jpg"
               },
               {
@@ -32,21 +32,21 @@
                   "name":  "Group5 黃丞胤",
                   "url":  "https://emocean-48759.web.app/",
                   "sdg":  "SDG3",
-                  "theme":  "Theme description: Forge an anonymous virtual ocean that translates intangible, abstract emotions into tangible visual spectacles.",
+                  "theme":  "Theme description: EMOCEAN, \"The Ocean of Emotions\", is an interactive web sanctuary designed for stress relief. It allows users to anonymously cast their thoughts into a digital ocean. The platform visualizes these collective emotions through dynamic waves, word clouds, and soothing music, providing an immersive therapeutic experience.",
                   "photo":  "assets/a-class/group05.jpg"
               },
               {
                   "name":  "Group6 陳俊岳、蔡仁懋、賴韋衡",
                   "url":  "https://cc10206.github.io/Green-Island-Final-Project/homepage",
                   "sdg":  "SDG6 + SDG14",
-                  "theme":  "Theme description: An innovative platform merging tourism info, interactive design, and environmental sustainability",
+                  "theme":  "Theme description: A brief description of your webpage's topic and content We are a passionate group of travel advocates dedicated to protecting Green Island through low-carbon, sustainable tourism. Our platform seamlessly covers every step of your journey—from the latest eco-news and transportation tips to our interactive Green Map, local eco-conscious merchants, and rewarding travel missions. Join us in connecting with conscious locals, discovering the island’s hidden beauty, and making your travels a powerful force for ecological conservation.",
                   "photo":  "assets/a-class/group06.jpg"
               },
               {
                   "name":  "Group7 吳若喬、陳佑瑄、沈湘淇",
                   "url":  "https://phoebejo.github.io/Website_project/",
                   "sdg":  "SDG1",
-                  "theme":  "Theme description: An immersive interactive simulation game lets users step into the daily lives of people across different countries. By utilizing an interactive world map and statistical charts, players can explore global poverty distributions before shifting focus to Taiwan's specific policy landscape and local socioeconomic data.",
+                  "theme":  "Theme description: This website explores SDG 01: No Poverty through interactive experiences and data visualization. Users can simulate life in different countries through role-playing games, discover global poverty distribution via an interactive world map, and dive into Taiwan's local poverty statistics through dynamic charts. By combining gameplay, real data, and policy insights, the site transforms a complex global issue into an accessible and engaging learning journey.",
                   "photo":  "assets/a-class/group07.jpg"
               },
               {
@@ -60,7 +60,7 @@
                   "name":  "Group9 Rémy QUENY",
                   "url":  "https://reprossg.github.io/Website/Home.html",
                   "sdg":  "SDG16",
-                  "theme":  "Theme description: A static multi-page website built to raise awareness about UN Sustainable Development Goal 16",
+                  "theme":  "Theme description: Justice World is a multi-page static website dedicated to UN Sustainable Development Goal 16 — Peace, Justice and Strong Institutions. It presents real international data on corruption, homicide rates, and the rule of law through an interactive world map, dynamic charts, and 180 individual country profile pages, allowing users to explore and compare governance quality across the globe.",
                   "photo":  "assets/a-class/group09.jpg"
               },
               {
@@ -72,128 +72,128 @@
               },
               {
                   "name":  "Group11 黃士桓、陳昱翔",
-                  "url":  "https://example.com/",
-                  "sdg":  "SDG4 + SDG9",
-                  "theme":  "Theme description: Digital teaching and innovative design",
+                  "url":  "https://shihuan-haha.github.io/web_final/",
+                  "sdg":  "SDG10",
+                  "theme":  "EqualPay is a data center that visualizes gender and age-based salary gaps through government statistics, making salary inequality immediately apparent. The platform aims to promote salary transparency and fairness, responding to SDG 10 (reducing inequality), and helping society better understand and improve salary disparities.",
                   "photo":  "assets/a-class/group11.jpg"
               },
               {
                   "name":  "Group12 李承懋",
                   "url":  "https://morrislee066.github.io/WebProgrammingFinalProject/",
                   "sdg":  "SDG12",
-                  "theme":  "Theme description: Game based learning of garbage classification and waste reduction",
+                  "theme":  "Theme description: Eco Sorting Challenge is an interactive web game designed to promote environmental awareness by gamifying garbage classification. It helps users learn waste management rules through an engaging drag-and-drop experience. By incorporating time pressure and real-time feedback, the game makes the learning process more effective, accessible, and practical for daily life.",
                   "photo":  "assets/a-class/group12.jpg"
               },
               {
                   "name":  "Group13 田詠竣",
-                  "url":  "https://example.com/",
-                  "sdg":  "SDG7 + SDG11",
-                  "theme":  "Theme description: Energy-efficient buildings and friendly communities",
+                  "url":  "https://srain0113.github.io/Select-Color-Website/",
+                  "sdg":  "SDG4",
+                  "theme":  "Theme description: Random Color Generator is an interactive web application designed to help users explore and understand color theory. By generating random colors and providing detailed information about their RGB, HEX, and HSL values, the website offers an engaging way to learn about color combinations, contrasts, and harmonies. Users can also save their favorite colors and create custom palettes for design projects.",
                   "photo":  "assets/a-class/group13.jpg"
               },
               {
                   "name":  "Group14 莊鎧鴻",
                   "url":  "https://example.com/",
-                  "sdg":  "SDG9 + SDG13",
-                  "theme":  "Theme description: Technology-driven carbon reduction and climate data analysis",
+                  "sdg":  "SDG13",
+                  "theme":  "Protocol 13 is an interactive climate-action website that tackles the biggest barrier to climate awareness: the feeling that the crisis is distant and abstract. Instead of showing global statistics, it makes climate change personal. Users enter their own city and instantly see its projected future — how many more extreme-heat days it will face by 2050, how much average temperatures will rise, and which coastal areas will be lost to sea-level rise. These projections are computed in real time from the Open-Meteo climate API (based on CMIP6 models), and the flood maps are drawn from Climate Central's peer-reviewed sea-level model, so the data is genuine rather than illustrative. The site then turns concern into agency through a net-zero simulator, where users adjust real climate-policy levers and watch the projected warming respond — discovering for themselves that no single action is enough and that meaningful change requires combined effort. The goal is a complete emotional arc: from \"this feels far away,\" to \"this is about my home,\" to \"here is what I can do.\"",
                   "photo":  "assets/a-class/group14.jpg"
               },
               {
                   "name":  "Group15 鄭志緬",
                   "url":  "https://myatmink.github.io/finalproject/",
                   "sdg":  "SDG3",
-                  "theme":  "Theme description: Health Score Dashboard with daily health score, wellness progress, feedback, and motivation",
+                  "theme":  "Theme description: The website serves as a wellness hub that helps users develop healthy daily habits and improve their overall well-being. It provides health-related resources, exercise planning tools, daily health tracking features, first aid information, and local health resources. Users can monitor important wellness indicators such as sleep, water intake, exercise duration, and mood. The website also offers educational content and practical guidance to encourage healthier lifestyles and raise awareness about the importance of physical and mental health. The goal is to promote positive health behaviors and support individuals in maintaining a balanced and healthy life.",
                   "photo":  "assets/a-class/group15.jpg"
               },
               {
                   "name":  "Group16 陳慧美、王若琳、楊依純",
                   "url":  "https://nathania07.github.io/Web-Final-Project/homepage.html#home",
                   "sdg":  "SDG2 + SDG12",
-                  "theme":  "Theme description: The Intersection of Food Waste and Global Hunger",
+                  "theme":  "Theme description: reflecting the theme of food, soil, and harvest.we also have our logo and we make it a animated floating logo and also put some circle designs at the background.This website was created to educate people about climate change and environmental sustainability. It helps users understand environmental issues, raises awareness of their impacts, and encourages everyone to take small actions to protect the planet.",
                   "photo":  "assets/a-class/group16.jpg"
               },
               {
                   "name":  "Group17 王宇崴",
-                  "url":  "https://example.com/",
-                  "sdg":  "SDG11 + SDG15",
-                  "theme":  "Theme description: Green spaces and urban ecology",
+                  "url":  "https://yikes0000.github.io/project/",
+                  "sdg":  "SDG12",
+                  "theme":  "This website allows users to learn more about SDGs12(reduce plastic waste) and can also use practical operation to know your carbon footprint.",
                   "photo":  "assets/a-class/group17.jpg"
               },
               {
                   "name":  "Group18 廖可筠、劉千、沈昕慧",
-                  "url":  "https://example.com/",
-                  "sdg":  "SDG3 + SDG8",
-                  "theme":  "Theme description: Healthy workplaces and quality of life",
+                  "url":  "https://chienien.github.io/webprogramming/final%20project/finalllllllll.html",
+                  "sdg":  "SDG3",
+                  "theme":  "MindBreath Hub is an SDG 3-aligned, cross-platform mental health website designed for college students. It replaces monotonous forms with a unified 3-in-1 Master Quiz that evaluates Academic, Lifestyle, and Social stressors using diverse mechanics: 5-point Likert scales, percentage track sliders, and situational checkbox matrices. Upon completion, a custom algorithm calculates a holistic Stress Intensity Ratio, dynamically displays adaptive emotional icons, and instantly matches users with personalized coping strategies and direct links to campus counseling networks and national 24/7 crisis hotlines.",
                   "photo":  "assets/a-class/group18.jpg"
               },
               {
                   "name":  "Group19 施竑宇、彭靖淵、張循",
                   "url":  "https://zhanghsun.github.io/2026-Web-Programming-Final-Project/index.html",
                   "sdg":  "SDG4 + SDG12 + SDG15",
-                  "theme":  "Theme description: Campus Nature Explorer transforms campus biodiversity into an interactive digital learning experience",
+                  "theme":  "Theme description: Campus Nature Explorer is an interactive website that introduces wildlife and plant species found on the National Central University campus. Through species guides, interactive maps, and educational activities, users can learn about biodiversity, sustainability, and ecosystem conservation.",
                   "photo":  "assets/a-class/group19.jpg"
               },
               {
                   "name":  "Group20 吳絃竑、李庭宇、商逢育",
                   "url":  "https://adsgg-00.github.io/programclass/",
                   "sdg":  "SDG14",
-                  "theme":  "Theme description: Blessed with bountiful catches, seafood is a way of life in Taiwan. Yet, as climate change and pollution accelerate, many marine species are quietly fading away. This website serves as a guide to help you easily identify which fish are sustainable to eat, and which ones we need to protect and preserve",
+                  "theme":  "Theme description: Interactive Visualization of Taiwan's Marine Fishery Catch",
                   "photo":  "assets/a-class/group20.jpg"
               },
               {
                   "name":  "Group21 曾培宸、詹迪凱",
                   "url":  "https://example.com/",
-                  "sdg":  "SDG8 + SDG10",
-                  "theme":  "Theme description: Youth entrepreneurship and equal opportunities",
+                  "sdg":  "SDG3 + SDG11 + SDG12 + SDG13",
+                  "theme":  "Designed around the core values of Sustainability Campus Connection and Smart Sharing this website provides NCU students and faculty with an intuitive eco-friendly bike-sharing platform",
                   "photo":  "assets/a-class/group21.jpg"
               },
               {
                   "name":  "Group22 賴昱豪、林益誠、曾丰翊",
                   "url":  "https://example.com/",
-                  "sdg":  "SDG2 + SDG12",
-                  "theme":  "Theme description: Friendly dining and waste-reduction design",
+                  "sdg":  "SDG12 + SDG13",
+                  "theme":  "Theme description: Using 24 hours a day as the main theme, this website covers nine major themes including commuting, dining, and consumption, transforming abstract carbon emissions into stories of everyday life choices. Users can make real-time selections and calculate their carbon footprint instantly. The platform emphasizes interactive experiences and real-life scenario connections, turning sustainability issues from slogans into tangible experiences. It covers themes such as commuting, dining, energy, and consumption.",
                   "photo":  "assets/a-class/group22.jpg"
               },
               {
                   "name":  "Group23 呂怡柔、楊心妤",
-                  "url":  "https://example.com/",
-                  "sdg":  "SDG6 + SDG13",
-                  "theme":  "Theme description: Water environment monitoring and disaster prevention",
+                  "url":  "https://cloth-reuse-wgmi.onrender.com",
+                  "sdg":  "SDG1 + SDG10 + SDG11 + SDG12 + SDG13",
+                  "theme":  "Theme description: This web application is a dedicated platform promoting sustainable fashion and clothing circularity, with a primary alignment on SDG 12 (ResponsibleConsumption and Production). By facilitating the transparent and accessible sharing, exchanging, and donating of pre-owned garments and footwear, the platform extends the lifecycle of textiles and addresses the root causes of over consumption and waste.In addition to its core focus, the platform integrates multiple UN Sustainable Development Goals to amplify its social and environmental impact",
                   "photo":  "assets/a-class/group23.jpg"
               },
               {
                   "name":  "Group24 胡亞嫙、張藝齡、賴柔羽",
                   "url":  "https://joannalai909.github.io/EcoLife/entrance",
                   "sdg":  "All SDGs",
-                  "theme":  "Theme description: Interactive sustainability simulation game - Daily decision-making with limited resources to raise awareness of sustainability and encourage responsible daily behavior",
+                  "theme":  "Theme description: EcoLife Simulator is an educational game website about sustainability and the Sustainable Development Goals. Users make choices in different life scenarios, and their decisions affect scores related to environmental, social, developmental, and global issues. Through interactive gameplay, visual feedback, different endings, and a leaderboard, the website helps users understand how everyday actions can contribute to a more sustainable future.",
                   "photo":  "assets/a-class/group24.jpg"
               },
               {
                   "name":  "Group25 呂沛珍",
                   "url":  "https://chewychloe.github.io/web_design/",
                   "sdg":  "SDG12 + SDG13",
-                  "theme":  "Theme description: With too many corporations wrapping themselves in green labels, it's hard for consumers to tell what's genuinely eco-friendly. We created this platform to cut through the greenwash and help the public see the truth about sustainability",
+                  "theme":  "Theme description: This website, titled \"GREEN OR NOT,\" is dedicated to unmasking the phenomenon of \"greenwashing\", a deceptive marketing practice where companies falsely claim to be environmentally friendly. Through interactive diagnostics and in-depth case studies across fast fashion, fossil fuels, and ESG investing, the platform aims to bridge the information asymmetry between corporations and consumers. It provides practical check tools, regulatory insights, and public tracking resources to empower users to see through misleading green filters and make truly sustainable choices. ",
                   "photo":  "assets/a-class/group25.jpg"
               },
               {
                   "name":  "Group26 林昱辰、許姵暄、江羽倢",
-                  "url":  "https://example.com/",
-                  "sdg":  "SDG4 + SDG12",
-                  "theme":  "Theme description: Co-created learning materials and sustainable living",
+                  "url":  "https://khariikhariio.github.io/group26_wpfinal/",
+                  "sdg":  "SDG4",
+                  "theme":  "This website is an interactive English learning website designed to make learning English engaging, personalized, and fun. The functions includes quizzes, flashcards, news recommendations, meme collections and learning analytics. (There are more detailed features in each functions.)",
                   "photo":  "assets/a-class/group26.jpg"
               },
               {
                   "name":  "Group27 黃梓祐、林秉毅",
-                  "url":  "https://example.com/",
+                  "url":  "https://cchris320.github.io/final_project/",
                   "sdg":  "SDG7 + SDG14",
-                  "theme":  "Theme description: Clean energy and ocean stewardship",
+                  "theme":  "This website is designed to help users relax muscles and correct workout posture. It provides guidance on proper exercise form to improve performance and prevent injuries.",
                   "photo":  "assets/a-class/group27.jpg"
               },
               {
                   "name":  "Group28 張學睿、鄧竣宸、陳品丞",
-                  "url":  "https://example.com/",
-                  "sdg":  "SDG8 + SDG13",
-                  "theme":  "Theme description: Green careers and carbon reduction practice",
+                  "url":  "https://github.com/ds0w0/Im3029ag28asset",
+                  "sdg":  "SDG4 + SDG11 + SDG12",
+                  "theme":  "Theme description: AssetWise is an interactive web application designed to digitalize and optimize the management of public campus equipment. Moving away from traditional, inefficient paper-based tracking, our platform establishes a synchronized data pipeline using Google Apps Script (GAS) to monitor asset allocation, quantity, and expiration statuses in real time. A core innovation of AssetWise is its built-in \"Second-hand Valuation Calculator\". By integrating mathematical depreciation algorithms based on equipment conditions and annual depreciation rates, the system dynamically calculates the remaining market value of assets. This dual approach ensures effective inventory management, minimizes the premature disposal of school supplies, and actively promotes asset circulation and reuse within the campus ecosystem.",
                   "photo":  "assets/a-class/group28.jpg"
               },
               {
@@ -202,7 +202,14 @@
                   "sdg":  "SDG4 + SDG16",
                   "theme":  "Theme description: Peace, justice, and a sound judiciary confront forgetting, transforming anger into reason",
                   "photo":  "assets/a-class/group29.jpg"
-              }
+              },
+                {
+                    "name":  "Group30 林修毅",
+                    "url":  "https://example.com/",
+                    "sdg":  "SDG10",
+                    "theme":  "",
+                    "photo":  "assets/a-class/group30.jpg"
+                }
           ],
     "B":  [
               {
