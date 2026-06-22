@@ -65,7 +65,7 @@
               },
               {
                   "name":  "Group10 張翔安、伍育嫻",
-                  "url":  "https://example.com/",
+                  "url":  "https://wuyusian1212-dotcom.github.io/ridesharetest/",
                   "sdg":  "SDG11 + SDG12 + SDG13",
                   "theme":  "Theme description: Ncu Uber ride sharing platform for NCU students, aiming to reduce carbon emissions and promote sustainable transportation on campus",
                   "photo":  "assets/a-class/group10.jpg"
@@ -93,7 +93,7 @@
               },
               {
                   "name":  "Group14 莊鎧鴻",
-                  "url":  "https://example.com/",
+                  "url":  "https://simonrainbow.github.io/web-final-project/",
                   "sdg":  "SDG13",
                   "theme":  "Protocol 13 is an interactive climate-action website that tackles the biggest barrier to climate awareness: the feeling that the crisis is distant and abstract. Instead of showing global statistics, it makes climate change personal. Users enter their own city and instantly see its projected future — how many more extreme-heat days it will face by 2050, how much average temperatures will rise, and which coastal areas will be lost to sea-level rise. These projections are computed in real time from the Open-Meteo climate API (based on CMIP6 models), and the flood maps are drawn from Climate Central's peer-reviewed sea-level model, so the data is genuine rather than illustrative. The site then turns concern into agency through a net-zero simulator, where users adjust real climate-policy levers and watch the projected warming respond — discovering for themselves that no single action is enough and that meaningful change requires combined effort. The goal is a complete emotional arc: from \"this feels far away,\" to \"this is about my home,\" to \"here is what I can do.\"",
                   "photo":  "assets/a-class/group14.jpg"
@@ -142,14 +142,14 @@
               },
               {
                   "name":  "Group21 曾培宸、詹迪凱",
-                  "url":  "https://example.com/",
+                  "url":  "https://pei-chen0112.github.io/final-project/website/Eng.html",
                   "sdg":  "SDG3 + SDG11 + SDG12 + SDG13",
                   "theme":  "Designed around the core values of Sustainability Campus Connection and Smart Sharing this website provides NCU students and faculty with an intuitive eco-friendly bike-sharing platform",
                   "photo":  "assets/a-class/group21.jpg"
               },
               {
                   "name":  "Group22 賴昱豪、林益誠、曾丰翊",
-                  "url":  "https://example.com/",
+                  "url":  "https://yicheng31.github.io/carbon_simulator/frontend/",
                   "sdg":  "SDG12 + SDG13",
                   "theme":  "Theme description: Using 24 hours a day as the main theme, this website covers nine major themes including commuting, dining, and consumption, transforming abstract carbon emissions into stories of everyday life choices. Users can make real-time selections and calculate their carbon footprint instantly. The platform emphasizes interactive experiences and real-life scenario connections, turning sustainability issues from slogans into tangible experiences. It covers themes such as commuting, dining, energy, and consumption.",
                   "photo":  "assets/a-class/group22.jpg"
